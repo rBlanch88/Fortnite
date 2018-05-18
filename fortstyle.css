@@ -46,7 +46,6 @@ p {
     font-size: 12px
 }
 #pic {
-    position: absolute;
-    left: 100px;
+    left: 125px;
     top: 150px;
 }
