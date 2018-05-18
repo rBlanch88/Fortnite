@@ -35,10 +35,13 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }
 /* ^--Navigation Bar--^ */
-
-h2 {
-    font-family:  Burbank Big Cd Bk;
-}
 body {
     background-color: #ffcf8c;
+}
+h2 {
+    font-family:  verdana;
+}
+p {
+    font-family: verdana;
+    font-size: 12px
 }
