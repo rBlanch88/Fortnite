@@ -40,14 +40,12 @@ body {
 }
 h2 {
     font-family:  verdana;
+    text-align: center;
 }
 p {
     font-family: verdana;
-    font-size: 15px
-}
-#pic {
-    left: 125px;
-    top: 150px;
+    font-size: 15px;
+    text-align: center;
 }
 
 #land {
@@ -56,6 +54,7 @@ p {
 
 h1 {
     font-family: verdana;
+    text-align: center;
 }
 
 .center {
